@@ -74,10 +74,7 @@ The dashboard provides real-time visual insights, including:
 - 🌍 Customer Distribution by Country
 - 📦 Inventory Levels vs. Demand
 
-📁 File: `Bookstore.pbix`  
-🛠 Requires [Power BI Desktop](https://github.com/Basu5/End-to-End-Bookstore-Analysis-Using-SQL-and-Power-BI/blob/main/Bookstore.pbix) to open and interact.
 
----
 
 ## 📂 How to Run This Project
 
